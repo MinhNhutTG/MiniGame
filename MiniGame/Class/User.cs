@@ -29,6 +29,7 @@ namespace MiniGame.Class
         {
             SoundPlayer breath = new SoundPlayer();
             breath.Stream = Properties.Resources.deep_breath_247459;
+            
             SoundPlayer click = new SoundPlayer();
             click.Stream = Properties.Resources.gun_cocking_sound_270163;
             SoundPlayer shoot = new SoundPlayer();

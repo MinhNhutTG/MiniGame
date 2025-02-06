@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\tuhin\\Desktop\\WorkSpace\\MiniGame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AC982741-0C1E-48A0-A8F0-59FB46C300F4}|MiniGame\\MiniGame.csproj|C:\\Users\\tuhin\\Desktop\\WorkSpace\\MiniGame\\minigame\\class\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC982741-0C1E-48A0-A8F0-59FB46C300F4}|MiniGame\\MiniGame.csproj|solutionrelative:minigame\\class\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AC982741-0C1E-48A0-A8F0-59FB46C300F4}|MiniGame\\MiniGame.csproj|c:\\users\\tuhin\\desktop\\workspace\\minigame\\minigame\\uc\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AC982741-0C1E-48A0-A8F0-59FB46C300F4}|MiniGame\\MiniGame.csproj|solutionrelative:minigame\\uc\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AC982741-0C1E-48A0-A8F0-59FB46C300F4}|MiniGame\\MiniGame.csproj|C:\\Users\\tuhin\\Desktop\\WorkSpace\\MiniGame\\minigame\\uc\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC982741-0C1E-48A0-A8F0-59FB46C300F4}|MiniGame\\MiniGame.csproj|solutionrelative:minigame\\uc\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC982741-0C1E-48A0-A8F0-59FB46C300F4}|MiniGame\\MiniGame.csproj|C:\\Users\\tuhin\\Desktop\\WorkSpace\\MiniGame\\minigame\\uc\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{AC982741-0C1E-48A0-A8F0-59FB46C300F4}|MiniGame\\MiniGame.csproj|solutionrelative:minigame\\uc\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{AC982741-0C1E-48A0-A8F0-59FB46C300F4}|MiniGame\\MiniGame.csproj|C:\\Users\\tuhin\\Desktop\\WorkSpace\\MiniGame\\minigame\\uc\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AC982741-0C1E-48A0-A8F0-59FB46C300F4}|MiniGame\\MiniGame.csproj|solutionrelative:minigame\\uc\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC982741-0C1E-48A0-A8F0-59FB46C300F4}|MiniGame\\MiniGame.csproj|C:\\Users\\tuhin\\Desktop\\WorkSpace\\MiniGame\\minigame\\class\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC982741-0C1E-48A0-A8F0-59FB46C300F4}|MiniGame\\MiniGame.csproj|solutionrelative:minigame\\class\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC982741-0C1E-48A0-A8F0-59FB46C300F4}|MiniGame\\MiniGame.csproj|C:\\Users\\tuhin\\Desktop\\WorkSpace\\MiniGame\\minigame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AC982741-0C1E-48A0-A8F0-59FB46C300F4}|MiniGame\\MiniGame.csproj|solutionrelative:minigame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|MiniGame||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
@@ -20,14 +28,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{AC982741-0C1E-48A0-A8F0-59FB46C300F4}|MiniGame\\MiniGame.csproj|C:\\Users\\tuhin\\Desktop\\WorkSpace\\MiniGame\\minigame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC982741-0C1E-48A0-A8F0-59FB46C300F4}|MiniGame\\MiniGame.csproj|solutionrelative:minigame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC982741-0C1E-48A0-A8F0-59FB46C300F4}|MiniGame\\MiniGame.csproj|c:\\users\\tuhin\\desktop\\workspace\\minigame\\minigame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{AC982741-0C1E-48A0-A8F0-59FB46C300F4}|MiniGame\\MiniGame.csproj|solutionrelative:minigame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC982741-0C1E-48A0-A8F0-59FB46C300F4}|MiniGame\\MiniGame.csproj|c:\\users\\tuhin\\desktop\\workspace\\minigame\\minigame\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
-      "RelativeMoniker": "D:0:0:{AC982741-0C1E-48A0-A8F0-59FB46C300F4}|MiniGame\\MiniGame.csproj|solutionrelative:minigame\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
     }
   ],
   "DocumentGroupContainers": [
@@ -37,7 +37,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -57,25 +57,36 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "Card.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tuhin\\Desktop\\WorkSpace\\MiniGame\\MiniGame\\UC\\Card.cs",
+              "RelativeDocumentMoniker": "MiniGame\\UC\\Card.cs",
+              "ToolTip": "C:\\Users\\tuhin\\Desktop\\WorkSpace\\MiniGame\\MiniGame\\UC\\Card.cs [Design]",
+              "RelativeToolTip": "MiniGame\\UC\\Card.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T05:13:22.931Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "MiniGame",
               "DocumentMoniker": "C:\\Users\\tuhin\\Desktop\\WorkSpace\\MiniGame\\MiniGame\\MiniGame.csproj",
               "RelativeDocumentMoniker": "MiniGame\\MiniGame.csproj",
               "ToolTip": "C:\\Users\\tuhin\\Desktop\\WorkSpace\\MiniGame\\MiniGame\\MiniGame.csproj",
               "RelativeToolTip": "MiniGame\\MiniGame.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-01-31T13:36:10.002Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-31T13:36:10.002Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\tuhin\\Desktop\\WorkSpace\\MiniGame\\MiniGame\\Class\\User.cs",
               "RelativeDocumentMoniker": "MiniGame\\Class\\User.cs",
               "ToolTip": "C:\\Users\\tuhin\\Desktop\\WorkSpace\\MiniGame\\MiniGame\\Class\\User.cs",
               "RelativeToolTip": "MiniGame\\Class\\User.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAcwCUAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAiwC4AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-31T12:07:08.242Z",
               "EditorCaption": ""
@@ -88,14 +99,14 @@
               "RelativeDocumentMoniker": "MiniGame\\UC\\Player.cs",
               "ToolTip": "C:\\Users\\tuhin\\Desktop\\WorkSpace\\MiniGame\\MiniGame\\UC\\Player.cs",
               "RelativeToolTip": "MiniGame\\UC\\Player.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAYwBQAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCcAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-31T12:04:11.791Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Player.cs [Design]",
               "DocumentMoniker": "C:\\Users\\tuhin\\Desktop\\WorkSpace\\MiniGame\\MiniGame\\UC\\Player.cs",
               "RelativeDocumentMoniker": "MiniGame\\UC\\Player.cs",
@@ -107,7 +118,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\tuhin\\Desktop\\WorkSpace\\MiniGame\\MiniGame\\Form1.cs",
               "RelativeDocumentMoniker": "MiniGame\\Form1.cs",
@@ -115,20 +126,18 @@
               "RelativeToolTip": "MiniGame\\Form1.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAkwBgAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T12:02:44.25Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-31T12:02:44.25Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\tuhin\\Desktop\\WorkSpace\\MiniGame\\MiniGame\\Form1.cs",
               "RelativeDocumentMoniker": "MiniGame\\Form1.cs",
               "ToolTip": "C:\\Users\\tuhin\\Desktop\\WorkSpace\\MiniGame\\MiniGame\\Form1.cs [Design]",
               "RelativeToolTip": "MiniGame\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T12:02:35.669Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-01-31T12:02:35.669Z"
             }
           ]
         }

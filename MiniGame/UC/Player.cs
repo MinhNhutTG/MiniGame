@@ -37,12 +37,7 @@ namespace MiniGame.UC
             }
           
         }
-        public void checkkill()
-        {
-            if (us.live == false) { 
-              
-            }
-        }
+      
         private void Player_Load(object sender, EventArgs e)
         {
             checkkill();
